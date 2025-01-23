@@ -8,7 +8,7 @@ For building and running the application you need:
 - [python 3.12.8](https://www.python.org/)
 - [Miniconda](https://docs.anaconda.com/miniconda/)
 
-## Conda env create using requirements.txt
+### Conda env create using requirements.txt
 
 ```sh
 conda create -n langchain-robot-chatbot python==3.12.8
