@@ -57,7 +57,7 @@ def is_valid_image_url(url):
     except requests.RequestException:
         return False
 
-# --- ✅ OpenAI GPT-4V 호출 ---
+# --- ✅ OpenAI GPT-4o-turbo 호출 ---
 if user_input and openai_api_key.startswith("sk-"):
     # URL과 텍스트 분류
     image_url, text_prompt = extract_url_and_text(user_input)
