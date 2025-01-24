@@ -23,6 +23,7 @@ For building and running the application you need:
 - [python 3.12.8](https://www.python.org/)
 - [Miniconda](https://docs.anaconda.com/miniconda/)
 
+## Setup
 ### Conda create by requirements.txt
 
 ```sh
