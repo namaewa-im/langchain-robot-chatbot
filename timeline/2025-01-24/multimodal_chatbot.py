@@ -88,7 +88,7 @@ if user_input and openai_api_key.startswith("sk-"):
             ]
         })
 
-    # OpenAI API 호출 (GPT-4V 사용)
+    # OpenAI API 호출 (GPT-4-turbo 사용)
     client = openai.OpenAI(api_key=openai_api_key)
     response = client.chat.completions.create(
         model="gpt-4-turbo",
