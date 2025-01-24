@@ -29,18 +29,15 @@ For building and running the application you need:
 ```sh
 conda create -n langchain-robot-chatbot python==3.12.8
 conda activate langchain-robot-chatbot
-```
-
-### Conda env create by environment.yml
-```sh
-conda env create -n langchain-robot-chatbot -f environment.yml
-conda activate langchain-robot-chatbot
-```
-
-## Installation
-
-```sh
 git clone https://github.com/namaewa-im/langchain-robot-chatbot.git
 cd langchain-robot-chatbot
 pip install -r requirements.txt
+```
+
+If the above code encounters an error, it is recommended to delete the environment and follow the steps below.
+### Conda env create by environment.yml (recommended)
+```sh
+git clone https://github.com/namaewa-im/langchain-robot-chatbot.git
+conda env create -n langchain-robot-chatbot -f environment.yml
+conda activate langchain-robot-chatbot
 ```
