@@ -1,0 +1,7 @@
+digraph {
+	__start__ [shape=box]
+	increment_age [shape=box]
+	__end__ [shape=box]
+	__start__ -> increment_age
+	increment_age -> __end__
+}
