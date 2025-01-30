@@ -1,0 +1,7 @@
+messages:
+  - role: system
+    content: "You are a chess pro."
+  - role: human
+    content: "Given the following FEN position, suggest the best move.\nFEN: {fen}"
+  - role: ai
+    content: "The best move for {fen} is:"

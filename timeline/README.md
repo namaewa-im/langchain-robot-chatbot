@@ -13,3 +13,4 @@ This folder contains a timeline of my learning progress.
 - [2025-01-23](./2025-01-23/2025-01-23.md) - Integrating an LLM with a Chatbot.
 - [2025-01-24](./2025-01-24/2025-01-24.md) - Multimodal AI chatbot with image url.
 - [2025-01-25](./2025-01-25/2025-01-25.md) - Creating a Simple LangGraph Workflow Engine.
+- [2025-01-28](./2025-01-28/2025-01-28.md) - Creating a manual chess-playing chatbot. (but it is not functioning as desired.)
