@@ -15,4 +15,5 @@ This folder contains a timeline of my learning progress.
 - [2025-01-25](./2025-01-25/2025-01-25.md) - Creating a Simple LangGraph Workflow Engine.
 - [2025-01-28](./2025-01-28/2025-01-28.md) - Creating a manual chess-playing chatbot. (but it is not work as desired.)
 - [2025-01-29](./2025-01-29/2025-01-29.md) - LangGraph structure changed, but it does not work as desired.
-- [2025-01-31](./2025-01-31/2025-01-31.md) - Building an environment where you can play chess and chat with an LLM
+- [2025-01-30](./2025-01-30/2025-01-30.md) - Summarizing LangGraph functions (e.g., reducer, command, send).
+- [2025-01-31](./2025-01-31/2025-01-31.md) - Building an environment where you can play chess and chat with an LLM.
