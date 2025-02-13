@@ -19,4 +19,5 @@ This folder contains a timeline of my learning progress.
 - [2025-01-31](./2025-01-31/2025-01-31.md) - Building an environment where you can play chess and chat with an LLM.
 - [2025-02-05](./2025-02-05/2025-02-05.md) - Chess chatbot using tools.
 - [2025-02-11](./2025-02-11/2025-02-11.md) - Interaction between nodes with state, conditional edges and using tools.
-- [2025-02-12](./2025-02-12/2025-02-12.md) - Implementing chat agent !!
+- [2025-02-12](./2025-02-12/2025-02-12.md) - Implementing chat agent.
+- [2025-02-13](./2025-02-13/2025-02-13/md) - Develop the code as a ReAct agent !!
